@@ -1,0 +1,77 @@
+body{
+    text-align: center;
+    background-color: sandybrown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div{
+    background-color: sandybrown;
+    
+}
+
+.Middle-container{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+}
+.Bottom-container{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+.head{
+    display: inline;
+}
+
+.top-cloud{
+    position: relative;
+    padding-top: 100px;
+    left: 200px;
+
+}
+
+.mountain{
+    position: relative;
+    right: 50px;
+  }
+
+.bottom-cloud{
+    position: relative;
+    left: 100px;
+bottom: 300px;
+}
+
+.WEB{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.kayy{
+    position: relative;
+    top: 50px;
+   width: 200px;
+   height: 200px;
+   border-radius: 100px;
+}
+
+.bio{
+   
+}
+
+.hello{
+    padding-top: 50px;
+}
+
+.computer{
+    width: 200px;
+   height: 200px;
+    border-radius: 200px;
+}
